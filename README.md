@@ -7,3 +7,5 @@ Technologies used: Python, Pandas, numpy, smtplib, schedule, yfinance, csv
 Currently in development...
 
 ![image](https://user-images.githubusercontent.com/98496684/209392766-c232ef04-661a-4309-af72-3f1e72782cb0.png)
+
+![image](https://user-images.githubusercontent.com/98496684/209392889-3c61c46d-2a5a-451a-ab89-6cdd819b7fbb.png)
