@@ -129,6 +129,7 @@ def atr_scan():
                 alert_list.append(stock_name)
                 results.append(data)
                 send_email(data, stock_name)
+            # need to work on this where we remove the stock once the alert is no longer is active
             # else:
             #     results.remove(data)
             #     results.append(data)
